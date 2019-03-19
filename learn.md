@@ -82,9 +82,9 @@
 ```
 示例：
 ```
-![github] (https://github.com/favicon.ico)
+![百度](http://upload-images.jianshu.io/upload_images/6153330-305abf60f5e71ed5.gif?imageMogr2/auto-orient/strip "百度logo")
 ```
-![github] (https://github.com/favicon.ico ''favicon'')
+![百度](http://upload-images.jianshu.io/upload_images/6153330-305abf60f5e71ed5.gif?imageMogr2/auto-orient/strip "百度logo")
 
 
 ## 六、超链接
@@ -174,7 +174,9 @@ title可加可不加
   效果：
   <font face = '微软雅黑'>微软雅黑</font></br>
   <font color = #31B404 size = 6 face = '黑体'>你看看嘛</font></br>
-  更多色彩：[HTML色彩](https://html-color-codes.info/chinese/)
+  更多色彩：[HTML色彩](https://html-color-codes.info/chinese/)</br>
+  注意：github上貌似无法渲染？
+  
 
 4. **emoji**
 
@@ -189,7 +191,7 @@ title可加可不加
   :smile:
   :sob:
 
-  更多emoji:[emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
+  更多emoji:[emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)</br>
 5. **todoList **
   示例：
   ```
