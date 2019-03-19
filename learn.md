@@ -82,9 +82,9 @@
 ```
 示例：
 ```
-![github](https://github.com/favicon.ico)
+![github] (https://github.com/favicon.ico)
 ```
-![github](https://github.com/favicon.ico ''favicon'')
+![github] (https://github.com/favicon.ico ''favicon'')
 
 
 ## 六、超链接
@@ -143,14 +143,14 @@ title可加可不加
 张飞|矛|三弟
 
 ## 九、常用技巧
-1. ** 换行: **</br>
+1. **换行:**</br>
 
   语法:
   ```
   方法1: 连续两个以上空格 or 回车
   方法2：使用html语言换行标签:</br>
   ```
-2. ** 一些特殊符号： ** </br>
+2. **一些特殊符号：** </br>
   表示方式：
   ```
   &#128505;
@@ -164,7 +164,7 @@ title可加可不加
 
   更多详见：[字符百科](https://unicode-table.com/cn/)
 
-3. ** 字体颜色字号： ** </br>
+3. **字体颜色字号：** </br>
   可以通过html的方式来实现  
   示例：
   ```
@@ -176,7 +176,7 @@ title可加可不加
   <font color = #31B404 size = 6 face = '黑体'>你看看嘛</font></br>
   更多色彩：[HTML色彩](https://html-color-codes.info/chinese/)
 
-4. ** emoji **
+4. **emoji**
 
   示例：
   ```
@@ -190,7 +190,7 @@ title可加可不加
   :sob:
 
   更多emoji:[emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
-5. ** todoList **
+5. **todoList **
   示例：
   ```
   - [x] 已完成项目1
@@ -208,5 +208,5 @@ title可加可不加
 
 
 
-  参考:<https://blog.csdn.net/u014061630/article/details/81359144>
+  参考:<https://blog.csdn.net/u014061630/article/details/81359144></br>
       <https://www.jianshu.com/p/7771794c88a1>
