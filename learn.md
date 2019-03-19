@@ -76,7 +76,7 @@
 ## 五、图片
 语法：
 ```
-![图片alt](图片地址 ''图片title'')
+![图片alt](图片地址 "图片title")
 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。
 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
 ```
@@ -192,7 +192,7 @@ title可加可不加
   :sob:
 
   更多emoji:[emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)</br>
-5. **todoList **
+5. **todoList**
   示例：
   ```
   - [x] 已完成项目1
@@ -210,5 +210,5 @@ title可加可不加
 
 
 
-  参考:<https://blog.csdn.net/u014061630/article/details/81359144></br>
+  `参考:`<https://blog.csdn.net/u014061630/article/details/81359144></br>
       <https://www.jianshu.com/p/7771794c88a1>
